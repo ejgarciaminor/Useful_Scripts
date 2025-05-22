@@ -41,3 +41,66 @@ afternoon;all_day_cloud_cover_total;all_day_icon;all_day_precipitation_total;all
 ;79;5;0.0;none;25.0;29.8;22.2;mostly_cloudy;182;S;0.5;;5;;Cloudy changing to partly sunny by afternoon. Temperature 22/30 °C.;mostly_cloudy;valencia;2025-05-23;2025-05-19
 ;60;4;0.0;none;26.0;30.8;21.8;partly_sunny;177;S;0.8;;4;;Partly sunny. Temperature 22/31 °C.;partly_sunny;valencia;2025-05-24;2025-05-19
 ;47;15;3.5;rain;26.5;31.0;22.0;tstorm_shower;224;SW;1.0;;15;;Sunny in the morning changing to mostly cloudy in the afternoon and thunderstorms later in the evening. Temperature 22/31 °C.;tstorm_shower;valencia;2025-05-25;2025-05-19
+;36;4;0.0;none;16.2;23.5;8.8;partly_sunny;83;E;1.4;;4;;Sunny changing to cloudy by afternoon. Temperature 9/24 °C.;partly_sunny;madrid;2025-05-20;2025-05-20
+;28;4;0.0;none;18.5;25.5;11.0;partly_sunny;348;NNW;1.9;;4;;Sunny, more clouds in the afternoon. Temperature 11/26 °C.;partly_sunny;madrid;2025-05-21;2025-05-20
+;56;5;0.0;none;17.5;22.5;12.8;mostly_cloudy;49;NE;2.7;;5;;Partly sunny changing to cloudy by afternoon and evening. Temperature 13/23 °C.;mostly_cloudy;madrid;2025-05-22;2025-05-20
+;28;4;0.0;none;15.8;22.5;9.2;partly_sunny;63;ENE;3.9;;4;;Partly sunny, fewer clouds in the afternoon. Temperature 9/23 °C.;partly_sunny;madrid;2025-05-23;2025-05-20
+;16;3;0.0;none;18.0;25.2;10.5;mostly_sunny;100;E;1.5;;3;;Sunny, more clouds in the afternoon and evening. Temperature 11/25 °C.;mostly_sunny;madrid;2025-05-24;2025-05-20
+;43;4;0.0;none;19.8;26.0;13.8;partly_sunny;354;N;1.3;;4;;Partly sunny. Temperature 14/26 °C.;partly_sunny;madrid;2025-05-25;2025-05-20
+;58;4;0.0;none;21.2;27.2;15.8;partly_sunny;332;NNW;1.8;;4;;Partly sunny. Temperature 16/27 °C.;partly_sunny;madrid;2025-05-26;2025-05-20
+;31;4;0.0;none;19.2;23.0;14.5;partly_sunny;115;ESE;2.3;;4;;Partly sunny. Temperature 15/23 °C.;partly_sunny;barcelona;2025-05-20;2025-05-20
+;44;4;0.0;none;20.0;22.5;15.5;partly_sunny;127;SE;2.2;;4;;Partly sunny, more clouds in the evening. Temperature 16/23 °C.;partly_sunny;barcelona;2025-05-21;2025-05-20
+;89;12;4.4;rain;17.5;18.0;15.5;psbl_rain;108;ESE;2.9;;12;;Light rain in the morning, possible rain in the afternoon. Temperature 16/18 °C.;psbl_rain;barcelona;2025-05-22;2025-05-20
+;42;13;1.3;rain;18.8;22.8;13.8;rain_shower;193;SSW;2.0;;13;;Partly sunny changing to rain showers in the afternoon. Temperature 14/23 °C.;rain_shower;barcelona;2025-05-23;2025-05-20
+;50;4;0.0;none;19.0;21.2;14.8;partly_sunny;145;SE;2.5;;4;;Partly sunny changing to cloudy by evening. Temperature 15/21 °C.;partly_sunny;barcelona;2025-05-24;2025-05-20
+;36;3;0.0;none;19.8;23.2;15.2;mostly_sunny;175;S;1.9;;3;;Sunny, more clouds in the evening. Temperature 15/23 °C.;mostly_sunny;barcelona;2025-05-25;2025-05-20
+;62;5;0.0;none;20.2;22.5;16.5;mostly_cloudy;137;SE;1.9;;5;;Mostly cloudy. Temperature 17/23 °C.;mostly_cloudy;barcelona;2025-05-26;2025-05-20
+;87;12;5.5;rain;25.5;29.0;22.2;psbl_rain;181;S;0.7;;12;;Mostly cloudy changing to light rain in the afternoon. Temperature 22/29 °C.;psbl_rain;valencia;2025-05-20;2025-05-20
+;92;14;7.2;rain;24.8;28.2;22.2;tstorm;192;SSW;0.7;;14;;Possible rain changing to thunderstorms in the afternoon. Temperature 22/28 °C.;tstorm;valencia;2025-05-21;2025-05-20
+;91;12;2.4;rain;24.8;28.8;22.2;psbl_rain;166;SSE;0.5;;12;;Fog in the morning, light rain later. Temperature 22/29 °C.;psbl_rain;valencia;2025-05-22;2025-05-20
+;92;7;0.6;rain;25.5;29.5;22.5;overcast;172;S;0.7;;7;;Cloudy in the morning and evening, possible rain in the afternoon. Temperature 23/30 °C.;overcast;valencia;2025-05-23;2025-05-20
+;64;4;0.0;none;26.0;31.0;21.8;partly_sunny;136;SE;0.9;;4;;Partly sunny, more clouds in the evening. Temperature 22/31 °C.;partly_sunny;valencia;2025-05-24;2025-05-20
+;58;4;0.0;none;26.2;30.5;22.0;partly_sunny;273;W;0.9;;4;;Partly sunny, more clouds in the afternoon. Temperature 22/31 °C.;partly_sunny;valencia;2025-05-25;2025-05-20
+;69;14;17.1;rain;25.2;29.2;22.2;tstorm;61;ENE;0.5;;14;;Rain showers in the morning changing to light rain in the afternoon and thunderstorms later in the evening. Temperature 22/29 °C.;tstorm;valencia;2025-05-26;2025-05-20
+;37;4;0.0;none;18.5;26.0;9.5;partly_sunny;294;WNW;2.1;;4;;Partly sunny, more clouds in the evening. Temperature 10/26 °C.;partly_sunny;madrid;2025-05-21;2025-05-21
+;73;6;0.0;none;18.0;23.0;13.5;cloudy;40;NE;3.0;;6;;Partly sunny changing to cloudy by afternoon and evening. Temperature 14/23 °C.;cloudy;madrid;2025-05-22;2025-05-21
+;30;3;0.0;none;16.0;22.5;9.0;mostly_sunny;63;ENE;4.1;;3;;Partly sunny, fewer clouds in the afternoon. Temperature 9/23 °C. Wind from NE in the afternoon.;mostly_sunny;madrid;2025-05-23;2025-05-21
+;9;2;0.0;none;17.8;25.8;9.8;sunny;99;E;1.9;;2;;Sunny. Temperature 10/26 °C.;sunny;madrid;2025-05-24;2025-05-21
+;39;4;0.0;none;19.8;27.5;12.0;partly_sunny;209;SSW;1.7;;4;;Partly sunny. Temperature 12/28 °C.;partly_sunny;madrid;2025-05-25;2025-05-21
+;60;5;0.0;none;21.2;27.5;15.5;mostly_cloudy;15;NNE;1.7;;5;;Partly sunny changing to cloudy by evening. Temperature 16/28 °C.;mostly_cloudy;madrid;2025-05-26;2025-05-21
+;29;4;0.0;none;21.2;28.0;14.8;partly_sunny;59;ENE;2.0;;4;;Sunny, more clouds in the afternoon and evening. Temperature 15/28 °C.;partly_sunny;madrid;2025-05-27;2025-05-21
+;52;4;0.0;none;19.8;23.2;13.5;partly_sunny;145;SE;2.7;;4;;Partly sunny changing to cloudy by evening. Temperature 14/23 °C.;partly_sunny;barcelona;2025-05-21;2025-05-21
+;87;12;1.6;rain;17.5;18.5;15.8;psbl_rain;144;SE;3.0;;12;;Light rain changing to cloudy in the afternoon. Temperature 16/19 °C. Wind from SE in the afternoon.;psbl_rain;barcelona;2025-05-22;2025-05-21
+;32;13;1.3;rain;18.0;21.5;13.5;rain_shower;191;S;2.4;;13;;Sunny, more clouds in the afternoon. Temperature 14/22 °C.;rain_shower;barcelona;2025-05-23;2025-05-21
+;31;4;0.0;none;19.0;22.5;14.0;partly_sunny;144;SE;2.3;;4;;Partly sunny. Temperature 14/23 °C.;partly_sunny;barcelona;2025-05-24;2025-05-21
+;22;3;0.0;none;20.0;22.8;16.0;mostly_sunny;136;SE;2.0;;3;;Sunny, more clouds in the evening. Temperature 16/23 °C.;mostly_sunny;barcelona;2025-05-25;2025-05-21
+;61;5;0.0;none;20.0;22.0;16.0;mostly_cloudy;116;ESE;2.1;;5;;Mostly cloudy, more clouds in the afternoon. Temperature 16/22 °C.;mostly_cloudy;barcelona;2025-05-26;2025-05-21
+;84;6;1.3;rain;18.5;20.5;16.5;cloudy;121;ESE;1.8;;6;;Rain showers changing to cloudy in the afternoon. Temperature 17/21 °C.;cloudy;barcelona;2025-05-27;2025-05-21
+;95;14;7.5;rain;24.5;27.8;22.0;tstorm;182;S;0.5;;14;;Thunderstorms in the morning, light rain later. Temperature 22/28 °C.;tstorm;valencia;2025-05-21;2025-05-21
+;88;6;0.0;none;25.2;28.8;22.2;cloudy;180;S;0.6;;6;;Fog in the morning, mostly cloudy later. Temperature 22/29 °C.;cloudy;valencia;2025-05-22;2025-05-21
+;77;12;1.2;rain;25.2;29.8;22.5;psbl_rain;171;S;0.8;;12;;Rain showers in the morning, possible rain in the afternoon. Temperature 23/30 °C.;psbl_rain;valencia;2025-05-23;2025-05-21
+;57;4;0.0;none;26.0;30.8;21.8;partly_sunny;157;SSE;0.7;;4;;Partly sunny. Temperature 22/31 °C.;partly_sunny;valencia;2025-05-24;2025-05-21
+;63;5;0.0;none;26.0;31.8;22.5;mostly_cloudy;221;SW;0.7;;5;;Partly sunny changing to cloudy by afternoon. Temperature 23/32 °C.;mostly_cloudy;valencia;2025-05-25;2025-05-21
+;78;10;7.8;rain;25.0;28.2;22.2;light_rain;195;SSW;0.6;;10;;Rain showers changing to light rain by afternoon and evening. Temperature 22/28 °C.;light_rain;valencia;2025-05-26;2025-05-21
+;99;12;5.3;rain;24.5;29.5;22.2;psbl_rain;151;SSE;0.4;;12;;Cloudy changing to light rain by evening. Temperature 22/30 °C.;psbl_rain;valencia;2025-05-27;2025-05-21
+;61;5;0.0;none;18.2;22.8;14.0;mostly_cloudy;34;NNE;3.0;;5;;Partly sunny changing to cloudy by afternoon and evening. Temperature 14/23 °C.;mostly_cloudy;madrid;2025-05-22;2025-05-22
+;32;4;0.0;none;16.0;22.2;8.8;partly_sunny;63;ENE;3.9;;4;;Partly sunny, fewer clouds in the afternoon. Temperature 9/22 °C.;partly_sunny;madrid;2025-05-23;2025-05-22
+;14;3;0.0;none;17.5;25.2;9.5;mostly_sunny;99;E;1.9;;3;;Sunny, more clouds in the afternoon. Temperature 10/25 °C.;mostly_sunny;madrid;2025-05-24;2025-05-22
+;15;4;0.0;none;20.0;27.8;11.5;partly_sunny;80;E;1.7;;4;;Sunny, more clouds in the afternoon and evening. Temperature 12/28 °C.;partly_sunny;madrid;2025-05-25;2025-05-22
+;53;4;0.0;none;21.8;28.5;15.2;partly_sunny;33;NNE;1.8;;4;;Partly sunny, more clouds in the evening. Temperature 15/29 °C.;partly_sunny;madrid;2025-05-26;2025-05-22
+;27;4;0.0;none;22.0;28.2;15.8;partly_sunny;39;NE;2.4;;4;;Sunny, more clouds in the evening. Temperature 16/28 °C.;partly_sunny;madrid;2025-05-27;2025-05-22
+;31;4;0.0;none;23.0;30.5;15.5;partly_sunny;53;NE;1.6;;4;;Partly sunny, fewer clouds in the afternoon. Temperature 16/31 °C.;partly_sunny;madrid;2025-05-28;2025-05-22
+;53;4;1.1;rain;17.2;18.2;15.0;partly_sunny;160;SSE;2.4;;4;;Rain showers changing to mostly cloudy in the afternoon. Temperature falling to 18 °C.;partly_sunny;barcelona;2025-05-22;2025-05-22
+;25;4;0.0;none;19.0;23.0;13.8;partly_sunny;204;SSW;2.7;;4;;Sunny, more clouds in the afternoon and evening. Temperature 14/23 °C.;partly_sunny;barcelona;2025-05-23;2025-05-22
+;39;4;0.0;none;18.8;21.8;14.5;partly_sunny;162;SSE;2.8;;4;;Partly sunny. Temperature 15/22 °C.;partly_sunny;barcelona;2025-05-24;2025-05-22
+;17;2;0.0;none;20.2;23.2;15.2;sunny;193;SSW;2.0;;2;;Sunny. Temperature 15/23 °C.;sunny;barcelona;2025-05-25;2025-05-22
+;58;5;0.0;none;20.5;23.5;16.5;mostly_cloudy;135;SE;2.2;;5;;Partly sunny changing to cloudy by afternoon and evening. Temperature 17/24 °C.;mostly_cloudy;barcelona;2025-05-26;2025-05-22
+;38;4;0.0;none;21.0;22.8;17.5;partly_sunny;163;SSE;2.0;;4;;Partly sunny. Temperature 18/23 °C.;partly_sunny;barcelona;2025-05-27;2025-05-22
+;55;4;0.0;none;20.2;23.2;16.2;partly_sunny;124;ESE;2.2;;4;;Mostly cloudy, fewer clouds in the afternoon and evening. Temperature 16/23 °C.;partly_sunny;barcelona;2025-05-28;2025-05-22
+;87;6;1.4;rain;25.5;29.2;22.0;cloudy;179;S;0.5;;6;;Cloudy, fewer clouds in the evening. Temperature 22/29 °C.;cloudy;valencia;2025-05-22;2025-05-22
+;72;6;1.0;rain;25.5;30.2;22.2;cloudy;171;S;0.8;;6;;Mostly cloudy changing to possible rain in the afternoon. Temperature 22/30 °C.;cloudy;valencia;2025-05-23;2025-05-22
+;52;4;0.0;none;26.0;30.8;21.8;partly_sunny;172;S;0.7;;4;;Fog in the morning, mostly cloudy later. Temperature 22/31 °C.;partly_sunny;valencia;2025-05-24;2025-05-22
+;71;12;0.9;rain;26.0;30.8;22.0;psbl_rain;116;ESE;0.6;;12;;Mostly cloudy changing to light rain in the afternoon. Temperature 22/31 °C.;psbl_rain;valencia;2025-05-25;2025-05-22
+;87;10;9.0;rain;24.8;28.8;22.2;light_rain;193;SSW;0.3;;10;;Possible rain changing to thunderstorms in the afternoon. Temperature 22/29 °C.;light_rain;valencia;2025-05-26;2025-05-22
+;84;6;1.1;rain;25.2;28.2;21.8;cloudy;132;SE;0.4;;6;;Cloudy changing to possible rain in the afternoon. Temperature 22/28 °C.;cloudy;valencia;2025-05-27;2025-05-22
+;77;12;2.6;rain;25.8;29.2;22.0;psbl_rain;170;S;0.7;;12;;Cloudy, fewer clouds in the afternoon. Temperature 22/29 °C.;psbl_rain;valencia;2025-05-28;2025-05-22
